@@ -22,11 +22,12 @@ To create a production build:
 npm run build-prod
 ```
 
-## Runningg
+## Running
 
 Open the file `dist/index.html` in your browser
 
 ## Credits
 
 Made with [createapp.dev](https://createapp.dev/)
+Cenaice @ github
 
